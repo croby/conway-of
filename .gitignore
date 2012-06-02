@@ -1,0 +1,4 @@
+bin/
+!bin/data/
+*.xcodeproj/xcuserdata
+*.xcodeproj/project.xcworkspace/xcuserdata
